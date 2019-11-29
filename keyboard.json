@@ -1,0 +1,33 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Помощь 💊"
+      },
+      "color": "default"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Погода ☁"
+        },
+        "color": "primary"
+      },
+    {
+        "action": {
+          "type": "text",
+          "label": "Мем 🤣"
+        },
+        "color": "negative"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Приветствие ✌"
+      },
+      "color": "positive"
+    }]
+  ]
+}
