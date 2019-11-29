@@ -96,6 +96,9 @@ while True:
 							# Counting temperature, choosing and sending a tip
 							VkDLib.send_msg(OwmDLib.count_tip())
 
+							# Exit from cycle
+							break
+
 						# Search exeption: api_response_error.NotFoundError (Not found city)
 						except api_response_error.NotFoundError:
 
