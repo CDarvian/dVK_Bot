@@ -9,8 +9,8 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 
 # Creating variables with API-Keys
-vk_api_key = 'c57e1e664859dd4a2e564b4262bd841bce289cbd88b1743425cdcebebc1ee295d3660f7b71088eae54736'
-owm_api_key = '77f486a0b806529eb556220947c3689e'
+vk_api_key = 'VK API HERE!'
+owm_api_key = 'OWM API HERE!'
 
 # Initializing vk_api: longpoll-bot
 vk_session = vk_api.VkApi(token = vk_api_key)
