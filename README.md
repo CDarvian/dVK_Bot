@@ -1,4 +1,4 @@
-# Darvian-VK_Bot
+# dVK_Bot
 - Version - 2.6
 
 - System requirements - Python 3.0 or later
